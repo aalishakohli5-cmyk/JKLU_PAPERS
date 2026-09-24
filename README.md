@@ -32,8 +32,12 @@ SEM-1/
 │   ├── class notes/
 │   ├── mid sem papers/
 │   └── practice questions/
-└── IKS/
-x
+│   IKS/
+│  ├── class notes/
+└──     
+ 
+ 
+
 ```
 
 ## What Is Included
