@@ -46,13 +46,13 @@ SEM-1/
 
 ## File Organization
 
-- Put lecture and reference material in the subject's `class notes` folder.
-- Put examination scans or images in the subject's `mid sem` or `mid sem papers` folder.
-- Put exercises and worked practice in `practice questions`.
+-  lecture and reference material in the subject's `class notes` folder.
+-  examination scans or images in the subject's `mid sem` or `mid sem papers` folder.
+-  exercises and worked practice in `practice questions`.
 - Keep each file inside its relevant subject folder and use a descriptive filename.
 
 ## Notes
 
 - This is a student-maintained collection and may grow throughout the semester.
-- The original uncompressed Calculus book is kept locally but excluded from Git because it exceeds GitHub's file-size limit. The compressed version is included in the repository.
+
 - PDF and image files are stored as study resources; always verify the latest syllabus or course instructions with the university.
