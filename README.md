@@ -36,13 +36,10 @@ SEM-1/
 │  ├── class notes/
 └──     
  
- 
 
 ```
 
 ## What Is Included
-
-
 
 ## File Organization
 
