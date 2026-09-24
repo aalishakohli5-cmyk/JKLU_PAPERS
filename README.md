@@ -21,17 +21,19 @@ SEM -1
 SEM-1/
 ├── APPLIED PHYSICS/
 │   ├── class notes/
-│   └── mid sem/
+│   └── sem papers /
 ├── CALCULUS/
 │   ├── class notes/
-│   └── mid sem papers/
+│   └──  sem papers/
 ├── FOCP/
 │   └── class notes/
+│   
 ├── FUNDAMENTALS OF EE/
 │   ├── class notes/
-│   ├── mid sem/
+│   ├── mid sem papers/
 │   └── practice questions/
 └── IKS/
+x
 ```
 
 ## What Is Included
