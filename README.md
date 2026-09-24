@@ -14,6 +14,9 @@ Study material and examination resources for Semester 1 at JKLU. This repository
 
 ## Repository Structure
 
+FOR EXAMPLE 
+SEM -1
+
 ```text
 SEM-1/
 ├── APPLIED PHYSICS/
@@ -33,32 +36,7 @@ SEM-1/
 
 ## What Is Included
 
-### Applied Physics
 
-- Course description for AS1108
-- Mechanics reference material
-- Introduction, mathematics review, conversion factors, and scalars and vectors
-- Two pages of mid-semester paper material
-
-### Calculus
-
-- Syllabus and compressed calculus reference book
-- Lecture notes for sessions 01–04 and 04–08
-- Partial derivatives, mixed partials, contours, and bounded-functions material
-- Extensive solved problem set
-- Three pages of mid-semester paper material
-
-### FOCP
-
-The FOCP collection focuses on communication fundamentals: communication definitions and basics, communication models, barriers, the Seven C's, instructions, Chapter 1, and a module reference document.
-
-### Fundamentals of EE
-
-The electrical engineering material covers circuit fundamentals and analysis, including branches and loops, KVL/KCL, nodal analysis, mesh analysis, circuit theorems, Micro-Cap practice, and two mid-semester paper pages.
-
-### IKS
-
-- Indian Knowledge Systems course description
 
 ## File Organization
 
