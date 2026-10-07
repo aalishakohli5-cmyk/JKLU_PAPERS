@@ -1,24 +1,17 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  1 12:17:16 2026
+a= int(input("Enter num a:"))
+b= int(input("Enter num b:"))
+c= int(input("Enter num c:"))
 
-@author: aalishakohli1
-"""
-'''for i in range(2, 10, 3):
-    print(i, end=" ")'''
+if (a<0 or b<0 or c<0):
+    print("invalid input please enter positive integers")
+    
+if(a>b and a>c):
+    print("a is largest")
+elif(a==b or b==c or a==c) :
+       print("Equal numbers")
 
-'''n = 205
-count = 0
-while n > 0:
-    count += 1
-    n = n // 10
-print(count) '''
-
-
-n = 84
-rev = 0
-while n > 0:
-    rev = rev * 10 + n % 10
-    n = n // 10
-print(rev)
+if(b>a and b>c):
+    print("b is largest  here ")
+    
+elif(c>a and c>b):
+    print("c is largest")
