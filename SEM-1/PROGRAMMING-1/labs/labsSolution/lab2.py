@@ -101,3 +101,61 @@ else:
     print("team 2 wins", score_2-score_1, "points")'''
 
 # Ques -9
+'''pages = int(input("Enter number of pages: "))
+
+if pages < 50:
+    cost = pages * 200
+else:
+    cost = pages * 150
+
+print("Total cost =", cost, "paise")'''
+
+# ques 10
+
+'''litres = float(input("Enter litres filled: "))
+cash = float(input("Enter cash given: "))
+
+cost = litres * 96.50
+
+if cash >= cost:
+    change = cash - cost
+    print("Change = Rs.", round(change, 2))
+else:
+    extra = cost - cash
+    print("You owe Rs.", round(extra, 2), "more")'''
+
+
+# ques -11
+
+'''a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+c = int(input("Enter third number: "))
+
+if a < b:
+    if a < c:
+        smallest = a
+    else:
+        smallest = c
+else:
+    if b < c:
+        smallest = b
+    else:
+        smallest = c
+
+print("Smallest number =", smallest)'''
+
+# ques -12
+
+'''rent = float(input("Enter room rent: "))
+
+service = rent * 10 / 100
+gst = rent * 12 / 100
+cess = rent * 3 / 100
+
+total = rent + service + gst + cess
+
+print("Room rent =", rent)
+print("Service charge =", service)
+print("GST =", gst)
+print("Tourism cess =", cess)
+print("Total bill =", round(total, 2))'''
